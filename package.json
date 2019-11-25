@@ -1,0 +1,29 @@
+{
+  "name": "prePracticeBE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon",  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanZiegenfus/prePracticeBE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanZiegenfus/prePracticeBE/issues"
+  },
+  "homepage": "https://github.com/ryanZiegenfus/prePracticeBE#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.2",
+    "sqlite3": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
